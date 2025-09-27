@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @74c5
 - 👀 I’m interested in ... programming, internet of things, making cool stuff and rustic carpentry
-- 🌱 I’m currently learning ... responsive web design
+- 🌱 I'm a software consultant/software engineer working in contract automation, business process and analytics.
 - 💞️ I’m looking to collaborate on ... ?
 - 📫 How to reach me ... here.
 
